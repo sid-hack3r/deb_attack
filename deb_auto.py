@@ -137,7 +137,7 @@ def Clean(package_path):
 print_banner(c)
 
 if len(sys.argv) < 2:
-	os.system('python3 %s --help' % sys.argv[0])
+	os.system('clear;python3 %s --help' % sys.argv[0])
 	sys.exit(-1)
 
 

@@ -8,7 +8,7 @@ bash)
 
 		<code>git clone https://github.com/sid-hack3r/deb_attack.git
 		cd deb_attack
-		python3 deb_auto.py --help
+		python3 deb_auto.py --help</code>
 
 options:
   -h, --help            show this help message and exit

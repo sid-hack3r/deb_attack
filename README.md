@@ -6,9 +6,9 @@ This tool building deb Auto Package Builder and give only payload (python
 bash)
 
 
-		<code>git clone https://github.com/sid-hack3r/deb_attack.git
+		git clone https://github.com/sid-hack3r/deb_attack.git
 		cd deb_attack
-		python3 deb_auto.py --help</code>
+		python3 deb_auto.py --help
 
 options:
   -h, --help            show this help message and exit

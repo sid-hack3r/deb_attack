@@ -8,6 +8,7 @@ bash)
 
 		git clone https://github.com/sid-hack3r/deb_attack.git
 		cd deb_attack
+		pip install -r requirements.txt
 		python3 deb_auto.py --help
 <img src='utils/banner.jpeg'>
 options:

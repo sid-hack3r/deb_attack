@@ -6,7 +6,9 @@ This tool building deb Auto Package Builder and give only payload (python
 bash)
 
 
-		Thank you for using deb_attack! <3
+		<code>git clone https://github.com/sid-hack3r/deb_attack.git</code>
+		<code> cd deb_attack</code>
+		<code>python3 deb_auto.py --help</code>
 
 options:
   -h, --help            show this help message and exit

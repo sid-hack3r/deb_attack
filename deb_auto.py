@@ -11,7 +11,7 @@ def Check_input():
 	parser = argparse.ArgumentParser(description=Fore.LIGHTBLUE_EX+'This tool building deb Auto Package Builder and give only payload (python bash) ',epilog=' python3 %(prog)s  -d example.deb -p payload_file_path_name ')
 	parser.add_argument('-v', '--version', action='version', version='1.0')
 	parser.add_argument('-d','--deb',help='debian Package path to inject malicious payload ',metavar='deb package name')
-	parser.add_argument('-p','--payload',help=' give me metasploit generated payload path to inject package in payload ',metavar='payload_file_name')
+	parser.add_argument('-p','--payload',help=' give me metasploit generated payload path to inject payload in package ',metavar='payload_file_name')
 	args = parser.parse_args()
 	return args
 

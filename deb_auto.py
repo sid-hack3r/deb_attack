@@ -53,9 +53,9 @@ _.-'       .-'    .'   .'    /           ~~~
     print(c.fg.lightblue + c.bold + c.fg.lightblue + banner_top  + banner + c.reset + "\n\n\n")
     print("\n\n\t\tThank you for using" + c.fg.red+ " deb_attack!" + c.bold + " <3" +c.reset)   
     print("\n") 
-    time.sleep(3)
+    
 
-print_banner(c)
+
 
 
 
@@ -149,6 +149,7 @@ if not os.path.exists(args.deb) or not os.path.exists(args.payload):
 
 
 if __name__=='__main__':
+	print_banner(c)
 	payload = Unpacking_Payload(args)
 	package_path = Unpacking_Deb(args)
 	script = Check_script(package_path)

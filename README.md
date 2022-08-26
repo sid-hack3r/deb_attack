@@ -3,8 +3,8 @@ Binding payloads in any deb package
 usage: deb_auto.py [-h] [-v] [-d deb package name] [-p payload_file_name]
 
 This tool building deb Auto Package Builder and give only payload (python
-bash)
-                                ----__ ''""    ___``'/````\   
+bash)<pre>
+				----__ ''""    ___``'/````\   
                               ,'     ,'    `--/   __,      \-,,,`.
                         ,""""'     .' ;-.    ,  ,'  \             `"""".
                       ,'           `-(   `._(_,'     )_                `.
@@ -30,7 +30,7 @@ _.-'       .-'    .'   .'    /           ~~~
 	
 
 
-
+</pre>
 
 
 		Thank you for using deb_attack! <3

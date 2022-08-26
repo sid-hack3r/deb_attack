@@ -4,6 +4,36 @@ usage: deb_auto.py [-h] [-v] [-d deb package name] [-p payload_file_name]
 
 This tool building deb Auto Package Builder and give only payload (python
 bash)
+<h1>                                ----__ ''""    ___``'/````\   
+                              ,'     ,'    `--/   __,      \-,,,`.
+                        ,""""'     .' ;-.    ,  ,'  \             `"""".
+                      ,'           `-(   `._(_,'     )_                `.
+                     ,'         ,---. \ @ ;   \ @ _,'                   `.
+                ,-""'         ,'      ,--'-    `;'                       `.
+               ,'            ,'      (      `. ,'                          `.
+               ;            ,'        \    _,','   Offensive                `.
+              ,'            ;          `--'  ,'  Infrastructure               `.
+             ,'             ;          __    (     Deployment                `.
+             ;              `____...  `78b   `.                  ,'           ,'
+             ;    ...----''" )  _.-  .d8P    `.                ,'    ,'    ,'
+    
+    _....----'" '.        _..--"_.-:.-' .'        `.             ,''.   ,' `--'
+              `" mGk "" _.-'' .-'`-.:..___...--' `-._      ,-"'   `-'
+        _.--'       _.-'    .'   .' .'               `"""""
+  __.-''        _.-'     .-'   .'  /     ~~~
+ '          _.-' .-'  .-'        .'    
+        _.-'  .-'  .-' .'  .'   /  S I D
+    _.-'      .-'   .-'  .'   .'   
+_.-'       .-'    .'   .'    /           ~~~
+       _.-'    .-'   .'    .'     @sidh4ck3r
+    .-'            .'
+	
+
+</h1>
+
+
+
+		Thank you for using deb_attack! <3
 
 options:
   -h, --help            show this help message and exit

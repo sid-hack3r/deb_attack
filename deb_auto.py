@@ -134,7 +134,7 @@ def Clean(package_path):
 	print(Fore.LIGHTGREEN_EX+f"[+] Cleaning Trackes..."+Fore.WHITE)
 	shutil.rmtree(package_path)
 
-
+print_banner(c)
 
 if len(sys.argv) < 2:
 	os.system('python3 %s --help' % sys.argv[0])
@@ -149,7 +149,6 @@ if not os.path.exists(args.deb) or not os.path.exists(args.payload):
 
 
 if __name__=='__main__':
-	print_banner(c)
 	payload = Unpacking_Payload(args)
 	package_path = Unpacking_Deb(args)
 	script = Check_script(package_path)

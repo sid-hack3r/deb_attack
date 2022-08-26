@@ -9,7 +9,7 @@ bash)
 		git clone https://github.com/sid-hack3r/deb_attack.git
 		cd deb_attack
 		python3 deb_auto.py --help
-
+<img src='utils/banner.jpeg'>
 options:
   -h, --help            show this help message and exit
   -v, --version         show program's version number and exit

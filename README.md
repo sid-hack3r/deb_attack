@@ -4,7 +4,7 @@ usage: deb_auto.py [-h] [-v] [-d deb package name] [-p payload_file_name]
 
 This tool building deb Auto Package Builder and give only payload (python
 bash)
-<h1>                                ----__ ''""    ___``'/````\   
+                                ----__ ''""    ___``'/````\   
                               ,'     ,'    `--/   __,      \-,,,`.
                         ,""""'     .' ;-.    ,  ,'  \             `"""".
                       ,'           `-(   `._(_,'     )_                `.
@@ -29,7 +29,7 @@ _.-'       .-'    .'   .'    /           ~~~
     .-'            .'
 	
 
-</h1>
+
 
 
 
